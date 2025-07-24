@@ -550,8 +550,7 @@ export default function Index() {
                 Star!
               </p>
               <a
-                href='https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index'
-                target='_blank'
+                href='#!'
                 className='github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg'>
                 Github Star
               </a>
@@ -605,8 +604,7 @@ export default function Index() {
                   Get started
                 </a>
                 <a
-                  href='https://github.com/themewagon/Notus-Next.js'
-                  target='_blank'
+                  href='#!'
                   className='github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg'>
                   <i className='fab fa-github text-lg mr-1'></i>
                   <span>Help With a Star</span>

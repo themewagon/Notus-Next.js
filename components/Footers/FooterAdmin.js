@@ -18,6 +18,8 @@ export default function FooterAdmin() {
                 <span className='ml-2 text-sm text-blueGray-500 font-semibold py-1'>
                   Distributed by{" "}
                   <a
+                    target='_blank'
+                    rel='noreferrer'
                     href='https://themewagon.com/'
                     className='text-blueGray-500 hover:text-blueGray-800'>
                     ThemeWagon

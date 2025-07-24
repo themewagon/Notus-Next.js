@@ -23,6 +23,8 @@ export default function FooterSmall(props) {
                 <span className='ml-2 text-sm text-blueGray-500 font-semibold py-1'>
                   Distributed by{" "}
                   <a
+                    target='_blank'
+                    rel='noreferrer'
                     href='https://themewagon.com/'
                     className='text-white hover:text-blueGray-300 text-sm font-semibold'>
                     ThemeWagon

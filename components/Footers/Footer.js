@@ -65,7 +65,6 @@ export default function Footer() {
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
                         href='#!'>
@@ -149,6 +148,8 @@ export default function Footer() {
               <div className='text-sm text-blueGray-500 font-semibold py-1'>
                 Distributed by{" "}
                 <a
+                  target='_blank'
+                  rel='noreferrer'
                   href='https://themewagon.com/'
                   className='text-blueGray-500 hover:text-blueGray-800'>
                   ThemeWagon
