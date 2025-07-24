@@ -57,10 +57,9 @@ export default function Footer() {
                   <ul className='list-unstyled'>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://www.creative-tim.com/presentation?ref=nnjs-footer'>
+                        href='#!'>
                         About Us
                       </a>
                     </li>
@@ -69,25 +68,23 @@ export default function Footer() {
                         target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://blog.creative-tim.com?ref=nnjs-footer'>
+                        href='#!'>
                         Blog
                       </a>
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://www.github.com/creativetimofficial?ref=nnjs-footer'>
+                        href='#!'>
                         Github
                       </a>
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://www.creative-tim.com/bootstrap-themes/free?ref=nnjs-footer'>
+                        href='#!'>
                         Free Products
                       </a>
                     </li>
@@ -100,37 +97,33 @@ export default function Footer() {
                   <ul className='list-unstyled'>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md?ref=nnjs-footer'>
+                        href='#!'>
                         MIT License
                       </a>
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://creative-tim.com/terms?ref=nnjs-footer'>
+                        href='#!'>
                         Terms & Conditions
                       </a>
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://creative-tim.com/privacy?ref=nnjs-footer'>
+                        href='#!'>
                         Privacy Policy
                       </a>
                     </li>
                     <li>
                       <a
-                        target='_blank'
                         rel='noreferrer'
                         className='text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm'
-                        href='https://creative-tim.com/contact-us?ref=nnjs-footer'>
+                        href='#!'>
                         Contact Us
                       </a>
                     </li>

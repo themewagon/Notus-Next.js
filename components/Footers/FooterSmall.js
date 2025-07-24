@@ -35,36 +35,32 @@ export default function FooterSmall(props) {
               <ul className='flex flex-wrap list-none md:justify-end  justify-center'>
                 <li>
                   <a
-                    target='_blank'
-                    rel='noreferrer'
-                    href='https://www.creative-tim.com?ref=nnjs-footer-small'
+                    aria-disabled
+                    href='#!'
                     className='text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3'>
                     Creative Tim
                   </a>
                 </li>
                 <li>
                   <a
-                    target='_blank'
-                    rel='noreferrer'
-                    href='https://www.creative-tim.com/presentation?ref=nnjs-footer-small'
+                    aria-disabled
+                    href='#!'
                     className='text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3'>
                     About Us
                   </a>
                 </li>
                 <li>
                   <a
-                    target='_blank'
-                    rel='noreferrer'
-                    href='http://blog.creative-tim.com?ref=nnjs-footer-small'
+                    aria-disabled
+                    href='#!'
                     className='text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3'>
                     Blog
                   </a>
                 </li>
                 <li>
                   <a
-                    target='_blank'
-                    rel='noreferrer'
-                    href='https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md?ref=nnjs-footer-small'
+                    aria-disabled
+                    href='#!'
                     className='text-white hover:text-blueGray-300 text-sm font-semibold block py-1 px-3'>
                     MIT License
                   </a>
